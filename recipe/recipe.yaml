@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.1.0"
+  version: "1.1.1"
 
 package:
   name: pystac-ext-raster
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-raster/pystac_ext_raster-${{ version }}.tar.gz
-  sha256: 19dd7c993defe450fa90b3fd690f30a6191b701fc704f1626748bdb57d9da1ed
+  sha256: 1249d34332cfd05634a31eb6f9d63d977cef4320d68876054bdbc1319ffc8b8a
 
 build:
   number: 0
